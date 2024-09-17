@@ -1,0 +1,23 @@
+{
+  "name": "streaming-pipeline",
+  "version": "1.0.0",
+  "description": "replication of multitenant ingestion from streaming videos using node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloRosendo/node-streaming-pipeline.git"
+  },
+  "author": "max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloRosendo/node-streaming-pipeline/issues"
+  },
+  "homepage": "https://github.com/MarceloRosendo/node-streaming-pipeline#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
